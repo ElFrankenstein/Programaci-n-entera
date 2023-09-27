@@ -1,1 +1,1 @@
-# Programaci-n-entera
+# Programacion-entera
