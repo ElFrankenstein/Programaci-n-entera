@@ -1,4 +1,4 @@
-# Programacion-entera
+# Programacion-entera + programa dinámica el archivo nombrado demo
 
 Diagrama de flujo 
 1.	Inicio del programa.
